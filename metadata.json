@@ -1,0 +1,6 @@
+{
+  "name": "CinemaHub",
+  "description": "Professional cinematic network and talent marketplace for the Arabic and international film and TV industry, powered by AI coaching, smart recruitment, script analysis, and production workspaces.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
